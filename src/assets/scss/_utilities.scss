@@ -8,3 +8,18 @@
     height: 75px;
     object-fit: cover;
 }
+
+.navbar{
+    background-color: #ebbf9c;
+}
+
+.btn-outline-dark {
+    color: #4e3b2b; /* 文字顏色 */
+    border-color: #4e3b2b; /* 邊框顏色 */
+}
+
+.btn-outline-dark:hover {
+    color: #fff; /* hover 時的文字顏色 */
+    background-color: #4e3b2b; /* hover 時的背景顏色 */
+    border-color: #4e3b2b; /* hover 時的邊框顏色 */
+}

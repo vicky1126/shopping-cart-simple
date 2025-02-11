@@ -4,9 +4,9 @@ import { CartContext } from "../store"
 export default function Navbar(){
     const [state] = useContext(CartContext);
     return(
-        <nav className="navbar bg-body-tertiary">
+        <nav className="navbar ">
             <div className="container-fluid">
-                <span className="navbar-brand">蛋糕店</span> 
+                <span className="navbar-brand">餐廳</span> 
                 <button className="btn btn-outline-dark position-relative" type="submit">
                 購物車
                 <span className="badge rounded-pill text-bg-danger 
