@@ -1,0 +1,7 @@
+@import "bootstrap/scss/functions";      // 功能檔案
+@import "./variables";                   // 自定義變數
+@import "bootstrap/scss/variables";      // Bootstrap 變數
+@import "bootstrap/scss/variables-dark";// 暗色模式變數
+@import "bootstrap/scss/bootstrap";      // 引入 Bootstrap 樣式
+
+@import "./utilities";
